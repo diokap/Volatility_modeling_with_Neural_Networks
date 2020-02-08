@@ -1,4 +1,5 @@
-Here are the all code and data I used.  
+Here is all the code and data I used for the 'Volatility modeling with Neural Networks' project.
+
 All the code is in the Jupyter Notebooks:  
  - 01 - GARCH Models Estimation.ipynb  
  - 02 - RNN-LSTM Model Estimation.ipynb  
